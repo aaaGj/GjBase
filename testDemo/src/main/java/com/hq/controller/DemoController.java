@@ -4,11 +4,11 @@ public class DemoController {
 
 	
 	public void show() {
-		System.out.println("这是controller");
+		System.out.println("这是耿婧的");
 	}
 	
 	public void show2() {
-		System.out.println("demo测试操作");
+		System.out.println("demo");
 	}
 	
 }
